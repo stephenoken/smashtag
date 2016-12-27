@@ -63,4 +63,5 @@ fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots
 fastlane/test_output
-*.do_not_commit
+
+twitter_creds.do_not_commit
