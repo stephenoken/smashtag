@@ -25,7 +25,7 @@
 		D435F3131E06A93B00237133 /* Tweet.swift in Sources */ = {isa = PBXBuildFile; fileRef = D435F3121E06A93B00237133 /* Tweet.swift */; };
 		D435F3141E06A93B00237133 /* Tweet.swift in Sources */ = {isa = PBXBuildFile; fileRef = D435F3121E06A93B00237133 /* Tweet.swift */; };
 		D456A8CB1E130076002B4938 /* trinity_college_dublin_tweets.json in Resources */ = {isa = PBXBuildFile; fileRef = D435F30D1E05FB6F00237133 /* trinity_college_dublin_tweets.json */; };
-		D456A8D21E132CED002B4938 /* twitter_credentials.do_not_commit in Resources */ = {isa = PBXBuildFile; fileRef = D456A8D11E132CED002B4938 /* twitter_credentials.do_not_commit */; };
+		D456A8D41E132EE2002B4938 /* twitter_credentials.do_not_commit in Resources */ = {isa = PBXBuildFile; fileRef = D456A8D31E132EE2002B4938 /* twitter_credentials.do_not_commit */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -96,7 +96,7 @@
 		D435F2FF1E058F0900237133 /* ModulesTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ModulesTests.swift; sourceTree = "<group>"; };
 		D435F30D1E05FB6F00237133 /* trinity_college_dublin_tweets.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = trinity_college_dublin_tweets.json; sourceTree = "<group>"; };
 		D435F3121E06A93B00237133 /* Tweet.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Tweet.swift; sourceTree = "<group>"; };
-		D456A8D11E132CED002B4938 /* twitter_credentials.do_not_commit */ = {isa = PBXFileReference; lastKnownFileType = text; path = twitter_credentials.do_not_commit; sourceTree = "<group>"; };
+		D456A8D31E132EE2002B4938 /* twitter_credentials.do_not_commit */ = {isa = PBXFileReference; lastKnownFileType = text; name = twitter_credentials.do_not_commit; path = ../api_creds/twitter_credentials.do_not_commit; sourceTree = "<group>"; };
 		E4E956D91C8559AE333BA7A5 /* Pods-Smashtag.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Smashtag.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Smashtag/Pods-Smashtag.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -162,7 +162,7 @@
 		D40DFFA31DA2F1D400E77967 = {
 			isa = PBXGroup;
 			children = (
-				D456A8D11E132CED002B4938 /* twitter_credentials.do_not_commit */,
+				D456A8D31E132EE2002B4938 /* twitter_credentials.do_not_commit */,
 				D435F2D11E044CBA00237133 /* Modules */,
 				D40DFFAE1DA2F1D400E77967 /* Smashtag */,
 				D40DFFC31DA2F1D500E77967 /* SmashtagTests */,
@@ -465,7 +465,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D456A8D21E132CED002B4938 /* twitter_credentials.do_not_commit in Resources */,
+				D456A8D41E132EE2002B4938 /* twitter_credentials.do_not_commit in Resources */,
 				D456A8CB1E130076002B4938 /* trinity_college_dublin_tweets.json in Resources */,
 				D40DFFBA1DA2F1D500E77967 /* LaunchScreen.storyboard in Resources */,
 				D40DFFB71DA2F1D500E77967 /* Assets.xcassets in Resources */,
