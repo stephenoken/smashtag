@@ -8,15 +8,15 @@ target 'Smashtag' do
   # Pods for Smashtag
   pod 'Alamofire'
   pod 'SwiftyJSON'
-  pod 'ObjectMapper'
+  pod 'OAuthSwift'
+  pod 'OAuthSwiftAlamofire'
+  pod 'STRegex'
 
   target 'SmashtagTests' do
     inherit! :search_paths
     # Pods for testing
     pod 'Quick'
     pod 'Nimble'
-    pod 'OHHTTPStubs'
-    pod 'OHHTTPStubs/Swift'
   end
 
   target 'ModulesTests' do
@@ -24,8 +24,6 @@ target 'Smashtag' do
       # Pods for testing
       pod 'Quick'
       pod 'Nimble'
-      pod 'OHHTTPStubs'
-      pod 'OHHTTPStubs/Swift'
   end
 
   target 'SmashtagUITests' do

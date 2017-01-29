@@ -1,0 +1,3262 @@
+{
+  "statuses": [
+    {
+      "created_at": "Sat Dec 31 01:39:25 +0000 2016",
+      "id": 815009430668447744,
+      "id_str": "815009430668447744",
+      "text": "**REACTIONS TO #STARWARS #ROGUEONE , #CGI #TARKIN ~Actors seek posthumous protections after big-screen resurrections https://t.co/dDhafkJneJ",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "STARWARS",
+            "indices": [
+              15,
+              24
+            ]
+          },
+          {
+            "text": "ROGUEONE",
+            "indices": [
+              25,
+              34
+            ]
+          },
+          {
+            "text": "CGI",
+            "indices": [
+              37,
+              41
+            ]
+          },
+          {
+            "text": "TARKIN",
+            "indices": [
+              42,
+              49
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/dDhafkJneJ",
+            "expanded_url": "http://a.msn.com/07/en-us/BBxJu7B?ocid=st",
+            "display_url": "a.msn.com/07/en-us/BBxJu…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 268364050,
+        "id_str": "268364050",
+        "name": "MM",
+        "screen_name": "MasterMastabah",
+        "location": "Post-U.S.A.",
+        "description": "SECULAR HUMANIST. Biased, Post-Truth, Unabashedly LEFTIST posts, w/ some Cultural & Sci-Tech mixed in.",
+        "url": "https://t.co/pnFbjTRdQE",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/pnFbjTRdQE",
+                "expanded_url": "http://www.reason.ws/lsh.aspx",
+                "display_url": "reason.ws/lsh.aspx",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 2285,
+        "friends_count": 5004,
+        "listed_count": 204,
+        "created_at": "Fri Mar 18 16:31:32 +0000 2011",
+        "favourites_count": 12104,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 14115,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/707412097764876288/wfRavl_h.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/707412097764876288/wfRavl_h.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/268364050/1482965029",
+        "profile_link_color": "050404",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Dec 30 21:59:34 +0000 2016",
+      "id": 814954104271368192,
+      "id_str": "814954104271368192",
+      "text": "#Rogueone #starwars #postcard No:04 #tarkin #grandmofftarkin #strathmore #watercolor 10.2 x 15.2 cm @derwentpencils… https://t.co/cCeQzFDpI4",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Rogueone",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "text": "starwars",
+            "indices": [
+              10,
+              19
+            ]
+          },
+          {
+            "text": "postcard",
+            "indices": [
+              20,
+              29
+            ]
+          },
+          {
+            "text": "tarkin",
+            "indices": [
+              36,
+              43
+            ]
+          },
+          {
+            "text": "grandmofftarkin",
+            "indices": [
+              44,
+              60
+            ]
+          },
+          {
+            "text": "strathmore",
+            "indices": [
+              61,
+              72
+            ]
+          },
+          {
+            "text": "watercolor",
+            "indices": [
+              73,
+              84
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "derwentpencils",
+            "name": "Derwent Pencils",
+            "id": 39486292,
+            "id_str": "39486292",
+            "indices": [
+              100,
+              115
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/cCeQzFDpI4",
+            "expanded_url": "https://twitter.com/i/web/status/814954104271368192",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "es",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 68696930,
+        "id_str": "68696930",
+        "name": "Berber Kenan",
+        "screen_name": "berberkenan",
+        "location": "Istanbul",
+        "description": "Barbarlık doğaldır, doğal olmayan medeniyettir. Bu, geçici bir durumdur ve barbarlık, eninde sonunda her zaman kazanacaktır. -Robert E. Howard-",
+        "url": "https://t.co/AWoHauGJai",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/AWoHauGJai",
+                "expanded_url": "https://Instagram.com/magaraduvari",
+                "display_url": "Instagram.com/magaraduvari",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 281,
+        "friends_count": 136,
+        "listed_count": 59,
+        "created_at": "Tue Aug 25 13:49:20 +0000 2009",
+        "favourites_count": 8229,
+        "utc_offset": 7200,
+        "time_zone": "Istanbul",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 35713,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/481383781245280257/0L9vqkTA.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/481383781245280257/0L9vqkTA.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/806568184090394624/W6OeFEJZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/806568184090394624/W6OeFEJZ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/68696930/1483094069",
+        "profile_link_color": "E61919",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "es"
+    },
+    {
+      "created_at": "Fri Dec 30 19:04:50 +0000 2016",
+      "id": 814910131456479232,
+      "id_str": "814910131456479232",
+      "text": "I forgot, I have been carrying this in my pocket for awhile. #RogueOne was super good! #501st #Tarkin #StarWars https://t.co/XE3ZvKLLce",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "RogueOne",
+            "indices": [
+              61,
+              70
+            ]
+          },
+          {
+            "text": "501st",
+            "indices": [
+              87,
+              93
+            ]
+          },
+          {
+            "text": "Tarkin",
+            "indices": [
+              94,
+              101
+            ]
+          },
+          {
+            "text": "StarWars",
+            "indices": [
+              102,
+              111
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 814910125890621440,
+            "id_str": "814910125890621440",
+            "indices": [
+              112,
+              135
+            ],
+            "media_url": "http://pbs.twimg.com/media/C08kcSGUUAAc2Gd.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C08kcSGUUAAc2Gd.jpg",
+            "url": "https://t.co/XE3ZvKLLce",
+            "display_url": "pic.twitter.com/XE3ZvKLLce",
+            "expanded_url": "https://twitter.com/Zolotkey/status/814910131456479232/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 814910125890621440,
+            "id_str": "814910125890621440",
+            "indices": [
+              112,
+              135
+            ],
+            "media_url": "http://pbs.twimg.com/media/C08kcSGUUAAc2Gd.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C08kcSGUUAAc2Gd.jpg",
+            "url": "https://t.co/XE3ZvKLLce",
+            "display_url": "pic.twitter.com/XE3ZvKLLce",
+            "expanded_url": "https://twitter.com/Zolotkey/status/814910131456479232/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 6662162,
+        "id_str": "6662162",
+        "name": "Nick Zolotko",
+        "screen_name": "Zolotkey",
+        "location": "Beaverton, OR",
+        "description": "Nerd, Husband/Father, {Star Wars, Apple, Cleveland Browns} Fan, and Desktop SysAdmin at LAIKA. I love watching movies!",
+        "url": "https://t.co/fgrPQqgbCN",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/fgrPQqgbCN",
+                "expanded_url": "http://imperialba.se",
+                "display_url": "imperialba.se",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 258,
+        "friends_count": 145,
+        "listed_count": 17,
+        "created_at": "Fri Jun 08 09:01:04 +0000 2007",
+        "favourites_count": 204,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 859,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "26201E",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/10374937/chuck.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/10374937/chuck.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/718833682220392448/_uqf10qc_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/718833682220392448/_uqf10qc_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/6662162/1479930243",
+        "profile_link_color": "E34912",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "B2997F",
+        "profile_text_color": "3C3020",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Dec 30 18:57:32 +0000 2016",
+      "id": 814908293504188416,
+      "id_str": "814908293504188416",
+      "text": "Nearly finished! #RogueOne custom #Bluray \n\n#StarWars #darthvader #tarkin #nerdlife https://t.co/ES8aJSdXIM",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "RogueOne",
+            "indices": [
+              17,
+              26
+            ]
+          },
+          {
+            "text": "Bluray",
+            "indices": [
+              34,
+              41
+            ]
+          },
+          {
+            "text": "StarWars",
+            "indices": [
+              44,
+              53
+            ]
+          },
+          {
+            "text": "darthvader",
+            "indices": [
+              54,
+              65
+            ]
+          },
+          {
+            "text": "tarkin",
+            "indices": [
+              66,
+              73
+            ]
+          },
+          {
+            "text": "nerdlife",
+            "indices": [
+              74,
+              83
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 814908289280569344,
+            "id_str": "814908289280569344",
+            "indices": [
+              84,
+              107
+            ],
+            "media_url": "http://pbs.twimg.com/media/C08ixYMW8AAeJmt.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C08ixYMW8AAeJmt.jpg",
+            "url": "https://t.co/ES8aJSdXIM",
+            "display_url": "pic.twitter.com/ES8aJSdXIM",
+            "expanded_url": "https://twitter.com/the_doctor1310/status/814908293504188416/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 934,
+                "h": 460,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 934,
+                "h": 460,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 335,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 814908289280569344,
+            "id_str": "814908289280569344",
+            "indices": [
+              84,
+              107
+            ],
+            "media_url": "http://pbs.twimg.com/media/C08ixYMW8AAeJmt.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C08ixYMW8AAeJmt.jpg",
+            "url": "https://t.co/ES8aJSdXIM",
+            "display_url": "pic.twitter.com/ES8aJSdXIM",
+            "expanded_url": "https://twitter.com/the_doctor1310/status/814908293504188416/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 934,
+                "h": 460,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 934,
+                "h": 460,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 335,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 266156928,
+        "id_str": "266156928",
+        "name": "Dave",
+        "screen_name": "the_doctor1310",
+        "location": "That Big Blue Box(T.A.R.D.I.S)",
+        "description": "I write, produce & direct films & sometimes nerd out...\n\nCurrently on @Screamin_Death & next @Sustain_Movie\n- Award Winning #filmmaker",
+        "url": "https://t.co/xX1Zp6Kxq0",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/xX1Zp6Kxq0",
+                "expanded_url": "http://www.lightbeamproductions.co.uk",
+                "display_url": "lightbeamproductions.co.uk",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1482,
+        "friends_count": 2347,
+        "listed_count": 87,
+        "created_at": "Mon Mar 14 19:24:49 +0000 2011",
+        "favourites_count": 2197,
+        "utc_offset": 0,
+        "time_zone": "London",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 11023,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/480890458743136256/YMxR8iOn.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/480890458743136256/YMxR8iOn.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/793613956707483649/OPrHIk3F_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/793613956707483649/OPrHIk3F_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/266156928/1482457218",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Dec 30 10:26:44 +0000 2016",
+      "id": 814779746978557956,
+      "id_str": "814779746978557956",
+      "text": "RT @ComicBook_Movie: How #RogueOne Resurrected Peter Cushing As Grand Moff #Tarkin https://t.co/UUA7tmyvRW #StarWars https://t.co/PzYPM2fsYw",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "RogueOne",
+            "indices": [
+              25,
+              34
+            ]
+          },
+          {
+            "text": "Tarkin",
+            "indices": [
+              75,
+              82
+            ]
+          },
+          {
+            "text": "StarWars",
+            "indices": [
+              107,
+              116
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ComicBook_Movie",
+            "name": "ComicBookMovie.com",
+            "id": 191561031,
+            "id_str": "191561031",
+            "indices": [
+              3,
+              19
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/UUA7tmyvRW",
+            "expanded_url": "https://www.comicbookmovie.com/sci-fi/star_wars/how-rogue-one-a-star-wars-story-resurrected-peter-cushing-as-a147743",
+            "display_url": "comicbookmovie.com/sci-fi/star_wa…",
+            "indices": [
+              83,
+              106
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 814111083896176640,
+            "id_str": "814111083896176640",
+            "indices": [
+              117,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/C0xNt6tXAAAIhK2.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C0xNt6tXAAAIhK2.jpg",
+            "url": "https://t.co/PzYPM2fsYw",
+            "display_url": "pic.twitter.com/PzYPM2fsYw",
+            "expanded_url": "https://twitter.com/ComicBook_Movie/status/814111128418709508/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 915,
+                "h": 507,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 377,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 915,
+                "h": 507,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 814111128418709508,
+            "source_status_id_str": "814111128418709508",
+            "source_user_id": 191561031,
+            "source_user_id_str": "191561031"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 814111083896176640,
+            "id_str": "814111083896176640",
+            "indices": [
+              117,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/C0xNt6tXAAAIhK2.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C0xNt6tXAAAIhK2.jpg",
+            "url": "https://t.co/PzYPM2fsYw",
+            "display_url": "pic.twitter.com/PzYPM2fsYw",
+            "expanded_url": "https://twitter.com/ComicBook_Movie/status/814111128418709508/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 915,
+                "h": 507,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 377,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 915,
+                "h": 507,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 814111128418709508,
+            "source_status_id_str": "814111128418709508",
+            "source_user_id": 191561031,
+            "source_user_id_str": "191561031"
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 53439653,
+        "id_str": "53439653",
+        "name": "Eloi",
+        "screen_name": "pitos_i_flautes",
+        "location": "Vilanova i la Geltrú",
+        "description": "Compte personal. RT≠agree",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1483,
+        "friends_count": 1495,
+        "listed_count": 34,
+        "created_at": "Fri Jul 03 17:10:47 +0000 2009",
+        "favourites_count": 20585,
+        "utc_offset": 7200,
+        "time_zone": "Athens",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 29596,
+        "lang": "ca",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "FCF9D6",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/155460134/Wood_tile_wallpaper_by_neko_xexe.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/155460134/Wood_tile_wallpaper_by_neko_xexe.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/793727972079497216/S21yKgGX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/793727972079497216/S21yKgGX_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/53439653/1477291961",
+        "profile_link_color": "B00000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FCF9D6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Dec 28 14:09:53 +0000 2016",
+        "id": 814111128418709508,
+        "id_str": "814111128418709508",
+        "text": "How #RogueOne Resurrected Peter Cushing As Grand Moff #Tarkin https://t.co/UUA7tmyvRW #StarWars https://t.co/PzYPM2fsYw",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "RogueOne",
+              "indices": [
+                4,
+                13
+              ]
+            },
+            {
+              "text": "Tarkin",
+              "indices": [
+                54,
+                61
+              ]
+            },
+            {
+              "text": "StarWars",
+              "indices": [
+                86,
+                95
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/UUA7tmyvRW",
+              "expanded_url": "https://www.comicbookmovie.com/sci-fi/star_wars/how-rogue-one-a-star-wars-story-resurrected-peter-cushing-as-a147743",
+              "display_url": "comicbookmovie.com/sci-fi/star_wa…",
+              "indices": [
+                62,
+                85
+              ]
+            }
+          ],
+          "media": [
+            {
+              "id": 814111083896176640,
+              "id_str": "814111083896176640",
+              "indices": [
+                96,
+                119
+              ],
+              "media_url": "http://pbs.twimg.com/media/C0xNt6tXAAAIhK2.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/C0xNt6tXAAAIhK2.jpg",
+              "url": "https://t.co/PzYPM2fsYw",
+              "display_url": "pic.twitter.com/PzYPM2fsYw",
+              "expanded_url": "https://twitter.com/ComicBook_Movie/status/814111128418709508/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 915,
+                  "h": 507,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 377,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 915,
+                  "h": 507,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 814111083896176640,
+              "id_str": "814111083896176640",
+              "indices": [
+                96,
+                119
+              ],
+              "media_url": "http://pbs.twimg.com/media/C0xNt6tXAAAIhK2.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/C0xNt6tXAAAIhK2.jpg",
+              "url": "https://t.co/PzYPM2fsYw",
+              "display_url": "pic.twitter.com/PzYPM2fsYw",
+              "expanded_url": "https://twitter.com/ComicBook_Movie/status/814111128418709508/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 915,
+                  "h": 507,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 377,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 915,
+                  "h": 507,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 191561031,
+          "id_str": "191561031",
+          "name": "ComicBookMovie.com",
+          "screen_name": "ComicBook_Movie",
+          "location": "Lindon, UT",
+          "description": "Breaking news about comics being made into movies: Batman, Superman, The Avengers, Spider-Man, Iron Man, Thor, X-Men, Wolverine and more!",
+          "url": "http://t.co/nM2VLxQsTv",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/nM2VLxQsTv",
+                  "expanded_url": "http://www.comicbookmovie.com",
+                  "display_url": "comicbookmovie.com",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 69248,
+          "friends_count": 757,
+          "listed_count": 1237,
+          "created_at": "Thu Sep 16 19:17:57 +0000 2010",
+          "favourites_count": 42,
+          "utc_offset": -25200,
+          "time_zone": "Mountain Time (US & Canada)",
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 37396,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "FFFFFF",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/177858744/pageBg.gif",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/177858744/pageBg.gif",
+          "profile_background_tile": true,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/530788353268916224/Il_aNHTy_normal.png",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/530788353268916224/Il_aNHTy_normal.png",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/191561031/1418325080",
+          "profile_link_color": "10376B",
+          "profile_sidebar_border_color": "10376B",
+          "profile_sidebar_fill_color": "FFFCC2",
+          "profile_text_color": "10376B",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 14,
+        "favorite_count": 41,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 14,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Dec 29 23:01:19 +0000 2016",
+      "id": 814607258986364928,
+      "id_str": "814607258986364928",
+      "text": "What a day #RogueOne &amp; some #BiffyClyro on #vinyl #StarWars #vinyljunkie #theforce #CarrieFisher #Tarkin #DarthVader https://t.co/jqdczTj9MJ",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "RogueOne",
+            "indices": [
+              11,
+              20
+            ]
+          },
+          {
+            "text": "BiffyClyro",
+            "indices": [
+              32,
+              43
+            ]
+          },
+          {
+            "text": "vinyl",
+            "indices": [
+              47,
+              53
+            ]
+          },
+          {
+            "text": "StarWars",
+            "indices": [
+              54,
+              63
+            ]
+          },
+          {
+            "text": "vinyljunkie",
+            "indices": [
+              64,
+              76
+            ]
+          },
+          {
+            "text": "theforce",
+            "indices": [
+              77,
+              86
+            ]
+          },
+          {
+            "text": "CarrieFisher",
+            "indices": [
+              87,
+              100
+            ]
+          },
+          {
+            "text": "Tarkin",
+            "indices": [
+              101,
+              108
+            ]
+          },
+          {
+            "text": "DarthVader",
+            "indices": [
+              109,
+              120
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 814607222709846017,
+            "id_str": "814607222709846017",
+            "indices": [
+              121,
+              144
+            ],
+            "media_url": "http://pbs.twimg.com/media/C04Q8_0WgAEiSFl.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C04Q8_0WgAEiSFl.jpg",
+            "url": "https://t.co/jqdczTj9MJ",
+            "display_url": "pic.twitter.com/jqdczTj9MJ",
+            "expanded_url": "https://twitter.com/keytoeverything/status/814607258986364928/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 912,
+                "h": 1600,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 684,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 388,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 814607222709846017,
+            "id_str": "814607222709846017",
+            "indices": [
+              121,
+              144
+            ],
+            "media_url": "http://pbs.twimg.com/media/C04Q8_0WgAEiSFl.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C04Q8_0WgAEiSFl.jpg",
+            "url": "https://t.co/jqdczTj9MJ",
+            "display_url": "pic.twitter.com/jqdczTj9MJ",
+            "expanded_url": "https://twitter.com/keytoeverything/status/814607258986364928/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 912,
+                "h": 1600,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 684,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 388,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 604887288,
+        "id_str": "604887288",
+        "name": "alex kimmell author",
+        "screen_name": "keytoeverything",
+        "location": "",
+        "description": "writer, musician, father, dog owner.  still breathing.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 94,
+        "friends_count": 94,
+        "listed_count": 3,
+        "created_at": "Sun Jun 10 20:14:03 +0000 2012",
+        "favourites_count": 2,
+        "utc_offset": -14400,
+        "time_zone": "Atlantic Time (Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 8,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "01070A",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000053107104/d85cdb16d88a4a885bce395e3a9dc077.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000053107104/d85cdb16d88a4a885bce395e3a9dc077.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2296699359/COVER_-_the_Key_to_everything_-_alex_m._kimmell_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2296699359/COVER_-_the_Key_to_everything_-_alex_m._kimmell_normal.jpg",
+        "profile_link_color": "000608",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Dec 29 17:42:47 +0000 2016",
+      "id": 814527097397837824,
+      "id_str": "814527097397837824",
+      "text": "There is one 100% perfect #Tarkin shot in #RogueOne so I'll forgive every other scene for falling short to varying degrees.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Tarkin",
+            "indices": [
+              26,
+              33
+            ]
+          },
+          {
+            "text": "RogueOne",
+            "indices": [
+              42,
+              51
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 39441808,
+        "id_str": "39441808",
+        "name": "Sam Levine",
+        "screen_name": "Sam_Levine",
+        "location": "USA",
+        "description": "lovable animation rogue ~ #PennZero Exec Producer/Co-Creator/Supervising Director/ Phyllis' Voice: \"Rippen very terrible, Larry very cute.\" I ❤️collaboration",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 3320,
+        "friends_count": 976,
+        "listed_count": 134,
+        "created_at": "Tue May 12 05:29:36 +0000 2009",
+        "favourites_count": 40930,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 43883,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/68192174/beatlesED2.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/68192174/beatlesED2.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/814325245897125889/KN9sbZc-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/814325245897125889/KN9sbZc-_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39441808/1482864087",
+        "profile_link_color": "FA743E",
+        "profile_sidebar_border_color": "8FF2FF",
+        "profile_sidebar_fill_color": "7D582B",
+        "profile_text_color": "1A0303",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Dec 29 08:13:41 +0000 2016",
+      "id": 814383877603151872,
+      "id_str": "814383877603151872",
+      "text": "#StarWars  #RogueOne -  #CGI #Tarkin (others)  Explained &gt;&gt;   https://t.co/kVwuUPGBBL via @YouTube  #Tech  #cinema  #movies",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "StarWars",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "text": "RogueOne",
+            "indices": [
+              11,
+              20
+            ]
+          },
+          {
+            "text": "CGI",
+            "indices": [
+              24,
+              28
+            ]
+          },
+          {
+            "text": "Tarkin",
+            "indices": [
+              29,
+              36
+            ]
+          },
+          {
+            "text": "Tech",
+            "indices": [
+              106,
+              111
+            ]
+          },
+          {
+            "text": "cinema",
+            "indices": [
+              113,
+              120
+            ]
+          },
+          {
+            "text": "movies",
+            "indices": [
+              122,
+              129
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "YouTube",
+            "name": "YouTube",
+            "id": 10228272,
+            "id_str": "10228272",
+            "indices": [
+              96,
+              104
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/kVwuUPGBBL",
+            "expanded_url": "http://ln.is/www.youtube.com/orb2I",
+            "display_url": "ln.is/www.youtube.co…",
+            "indices": [
+              68,
+              91
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://linkis.com\" rel=\"nofollow\">Put your button on any page! </a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 268364050,
+        "id_str": "268364050",
+        "name": "MM",
+        "screen_name": "MasterMastabah",
+        "location": "Post-U.S.A.",
+        "description": "SECULAR HUMANIST. Biased, Post-Truth, Unabashedly LEFTIST posts, w/ some Cultural & Sci-Tech mixed in.",
+        "url": "https://t.co/pnFbjTRdQE",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/pnFbjTRdQE",
+                "expanded_url": "http://www.reason.ws/lsh.aspx",
+                "display_url": "reason.ws/lsh.aspx",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 2285,
+        "friends_count": 5004,
+        "listed_count": 204,
+        "created_at": "Fri Mar 18 16:31:32 +0000 2011",
+        "favourites_count": 12104,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 14115,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/707412097764876288/wfRavl_h.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/707412097764876288/wfRavl_h.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/268364050/1482965029",
+        "profile_link_color": "050404",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Dec 28 22:38:10 +0000 2016",
+      "id": 814239042195832832,
+      "id_str": "814239042195832832",
+      "text": "DIRETOR DA IL&amp;M FALA SOBRE A PRESENÇA DE TARKIN EM ROGUE ONE: A STAR WARS STORY\nhttps://t.co/rKoR8zg09l\n#StarWars… https://t.co/oqZ4m3FUcP",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "StarWars",
+            "indices": [
+              108,
+              117
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/rKoR8zg09l",
+            "expanded_url": "http://migre.me/vNvdt",
+            "display_url": "migre.me/vNvdt",
+            "indices": [
+              84,
+              107
+            ]
+          },
+          {
+            "url": "https://t.co/oqZ4m3FUcP",
+            "expanded_url": "https://twitter.com/i/web/status/814239042195832832",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              119,
+              142
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 760471939290898432,
+        "id_str": "760471939290898432",
+        "name": "Joselio Bezerra",
+        "screen_name": "joselio_bezerra",
+        "location": "Brejo do Cruz/PB, Brasil",
+        "description": "Viciado em séries, filmes, livros, HQs, na D.C. Comics e redator do blog MixHQ.",
+        "url": "https://t.co/z52pq1xGSr",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/z52pq1xGSr",
+                "expanded_url": "http://www.mixhqpodcast.blogspot.com.br",
+                "display_url": "mixhqpodcast.blogspot.com.br",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 27,
+        "friends_count": 102,
+        "listed_count": 3,
+        "created_at": "Tue Aug 02 13:46:54 +0000 2016",
+        "favourites_count": 406,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 278,
+        "lang": "pt",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/813221880543019008/qV4oJaOm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/813221880543019008/qV4oJaOm_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/760471939290898432/1482722230",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "pt"
+    },
+    {
+      "created_at": "Wed Dec 28 21:59:01 +0000 2016",
+      "id": 814229189809360896,
+      "id_str": "814229189809360896",
+      "text": "#RogueOne A #StarWars Story, Lucasfilm aveva un piano di riserva per #Tarkin https://t.co/XZn7kTUYbU",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "RogueOne",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "text": "StarWars",
+            "indices": [
+              12,
+              21
+            ]
+          },
+          {
+            "text": "Tarkin",
+            "indices": [
+              69,
+              76
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/XZn7kTUYbU",
+            "expanded_url": "http://buff.ly/2iFDT3L",
+            "display_url": "buff.ly/2iFDT3L",
+            "indices": [
+              77,
+              100
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "it",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 59775050,
+        "id_str": "59775050",
+        "name": "Movieplayer.it",
+        "screen_name": "movieplayer_it",
+        "location": "Italy",
+        "description": "Sempre informati su film, serie TV, star e festival con il webmagazine di informazione cinematografica e televisiva http://t.co/NMoOsX6C",
+        "url": "http://t.co/a5Q3q7lhrv",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/a5Q3q7lhrv",
+                "expanded_url": "http://www.movieplayer.it/",
+                "display_url": "movieplayer.it",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "http://t.co/NMoOsX6C",
+                "expanded_url": "http://Movieplayer.it",
+                "display_url": "Movieplayer.it",
+                "indices": [
+                  116,
+                  136
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 10474,
+        "friends_count": 1252,
+        "listed_count": 291,
+        "created_at": "Fri Jul 24 12:55:12 +0000 2009",
+        "favourites_count": 117,
+        "utc_offset": 3600,
+        "time_zone": "Rome",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 46110,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/121359838/movie_twitter.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/121359838/movie_twitter.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1064380603/Logo_icon_movieplayer_9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1064380603/Logo_icon_movieplayer_9_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/59775050/1404742626",
+        "profile_link_color": "262F7C",
+        "profile_sidebar_border_color": "D3D5D6",
+        "profile_sidebar_fill_color": "F5F5F5",
+        "profile_text_color": "0A0A0A",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "it"
+    },
+    {
+      "created_at": "Wed Dec 28 20:28:38 +0000 2016",
+      "id": 814206443935121410,
+      "id_str": "814206443935121410",
+      "text": "RT @BennettBrosPod: I thought it was awesome! And yes they will use it again. #RogueOne #StarWars #Tarkin https://t.co/QPkfZtACTX",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "RogueOne",
+            "indices": [
+              78,
+              87
+            ]
+          },
+          {
+            "text": "StarWars",
+            "indices": [
+              88,
+              97
+            ]
+          },
+          {
+            "text": "Tarkin",
+            "indices": [
+              98,
+              105
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "BennettBrosPod",
+            "name": "BennettBrothers",
+            "id": 2826538778,
+            "id_str": "2826538778",
+            "indices": [
+              3,
+              18
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/QPkfZtACTX",
+            "expanded_url": "http://fb.me/1NdQUHLCx",
+            "display_url": "fb.me/1NdQUHLCx",
+            "indices": [
+              106,
+              129
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2826538778,
+        "id_str": "2826538778",
+        "name": "BennettBrothers",
+        "screen_name": "BennettBrosPod",
+        "location": "",
+        "description": "Welcome to The Bennett Brothers’s Podcast! We are currently doing a weekly podcast on the Marvel Cinematic Universe and its media off shoots.",
+        "url": "https://t.co/mbx0okrcvg",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/mbx0okrcvg",
+                "expanded_url": "http://bennettbrotherspodcast.wordpress.com",
+                "display_url": "bennettbrotherspodcast.wordpress.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 33,
+        "friends_count": 42,
+        "listed_count": 3,
+        "created_at": "Mon Sep 22 15:19:17 +0000 2014",
+        "favourites_count": 630,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1075,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/778283918583795712/Rkf0MdfG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/778283918583795712/Rkf0MdfG_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2826538778/1481041851",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Dec 28 15:57:06 +0000 2016",
+        "id": 814138110162378756,
+        "id_str": "814138110162378756",
+        "text": "I thought it was awesome! And yes they will use it again. #RogueOne #StarWars #Tarkin https://t.co/QPkfZtACTX",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "RogueOne",
+              "indices": [
+                58,
+                67
+              ]
+            },
+            {
+              "text": "StarWars",
+              "indices": [
+                68,
+                77
+              ]
+            },
+            {
+              "text": "Tarkin",
+              "indices": [
+                78,
+                85
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/QPkfZtACTX",
+              "expanded_url": "http://fb.me/1NdQUHLCx",
+              "display_url": "fb.me/1NdQUHLCx",
+              "indices": [
+                86,
+                109
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 2826538778,
+          "id_str": "2826538778",
+          "name": "BennettBrothers",
+          "screen_name": "BennettBrosPod",
+          "location": "",
+          "description": "Welcome to The Bennett Brothers’s Podcast! We are currently doing a weekly podcast on the Marvel Cinematic Universe and its media off shoots.",
+          "url": "https://t.co/mbx0okrcvg",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/mbx0okrcvg",
+                  "expanded_url": "http://bennettbrotherspodcast.wordpress.com",
+                  "display_url": "bennettbrotherspodcast.wordpress.com",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 33,
+          "friends_count": 42,
+          "listed_count": 3,
+          "created_at": "Mon Sep 22 15:19:17 +0000 2014",
+          "favourites_count": 630,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 1075,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/778283918583795712/Rkf0MdfG_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/778283918583795712/Rkf0MdfG_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/2826538778/1481041851",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Dec 28 19:06:46 +0000 2016",
+      "id": 814185842122047489,
+      "id_str": "814185842122047489",
+      "text": "Liked #RogueOne quite a bit! Didn't catch one word #Tarkin said tho, too busy staring at his creepy frickin face. Did they use play-doh?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "RogueOne",
+            "indices": [
+              6,
+              15
+            ]
+          },
+          {
+            "text": "Tarkin",
+            "indices": [
+              51,
+              58
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 113418933,
+        "id_str": "113418933",
+        "name": "Meri Peltola",
+        "screen_name": "mpeltola",
+        "location": "Espoo, Finland",
+        "description": "Filmaholic, TV addict & binge-watcher working in marketing comms. Taking time off to star in family sitcom Spray Fart Diaries: Life with a Newborn, S2.",
+        "url": "https://t.co/Vbh42sb30r",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/Vbh42sb30r",
+                "expanded_url": "http://mpeltola.tumblr.com",
+                "display_url": "mpeltola.tumblr.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 616,
+        "friends_count": 1326,
+        "listed_count": 19,
+        "created_at": "Thu Feb 11 18:04:07 +0000 2010",
+        "favourites_count": 849,
+        "utc_offset": 7200,
+        "time_zone": "Helsinki",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 5365,
+        "lang": "fi",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "181C1F",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/158509157/x64a10ec33eb077f1c876134de20cac5.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/158509157/x64a10ec33eb077f1c876134de20cac5.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/810428265420701696/MZhQPYhy_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/810428265420701696/MZhQPYhy_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/113418933/1442611884",
+        "profile_link_color": "C67A21",
+        "profile_sidebar_border_color": "454B52",
+        "profile_sidebar_fill_color": "0E1621",
+        "profile_text_color": "575E61",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Dec 28 16:01:30 +0000 2016",
+      "id": 814139220419821569,
+      "id_str": "814139220419821569",
+      "text": "RT @ComicBook_Movie: How #RogueOne Resurrected Peter Cushing As Grand Moff #Tarkin https://t.co/UUA7tmyvRW #StarWars https://t.co/PzYPM2fsYw",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "RogueOne",
+            "indices": [
+              25,
+              34
+            ]
+          },
+          {
+            "text": "Tarkin",
+            "indices": [
+              75,
+              82
+            ]
+          },
+          {
+            "text": "StarWars",
+            "indices": [
+              107,
+              116
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ComicBook_Movie",
+            "name": "ComicBookMovie.com",
+            "id": 191561031,
+            "id_str": "191561031",
+            "indices": [
+              3,
+              19
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/UUA7tmyvRW",
+            "expanded_url": "https://www.comicbookmovie.com/sci-fi/star_wars/how-rogue-one-a-star-wars-story-resurrected-peter-cushing-as-a147743",
+            "display_url": "comicbookmovie.com/sci-fi/star_wa…",
+            "indices": [
+              83,
+              106
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 814111083896176640,
+            "id_str": "814111083896176640",
+            "indices": [
+              117,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/C0xNt6tXAAAIhK2.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C0xNt6tXAAAIhK2.jpg",
+            "url": "https://t.co/PzYPM2fsYw",
+            "display_url": "pic.twitter.com/PzYPM2fsYw",
+            "expanded_url": "https://twitter.com/ComicBook_Movie/status/814111128418709508/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 915,
+                "h": 507,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 377,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 915,
+                "h": 507,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 814111128418709508,
+            "source_status_id_str": "814111128418709508",
+            "source_user_id": 191561031,
+            "source_user_id_str": "191561031"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 814111083896176640,
+            "id_str": "814111083896176640",
+            "indices": [
+              117,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/C0xNt6tXAAAIhK2.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C0xNt6tXAAAIhK2.jpg",
+            "url": "https://t.co/PzYPM2fsYw",
+            "display_url": "pic.twitter.com/PzYPM2fsYw",
+            "expanded_url": "https://twitter.com/ComicBook_Movie/status/814111128418709508/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 915,
+                "h": 507,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 377,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 915,
+                "h": 507,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 814111128418709508,
+            "source_status_id_str": "814111128418709508",
+            "source_user_id": 191561031,
+            "source_user_id_str": "191561031"
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 243308689,
+        "id_str": "243308689",
+        "name": "RPF & RPG",
+        "screen_name": "REDPLANETFILMS",
+        "location": "Connecticut, USA",
+        "description": "EST. 2011 | Devoted to Let's Play's, Films, Reviews & More | Founded by @RichieRich93_ & @chrispopzz | Twitch: https://t.co/NBhZlBo4qb",
+        "url": "https://t.co/IDIUEHnEJN",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/IDIUEHnEJN",
+                "expanded_url": "http://www.youtube.com/user/theredplanetfilms1",
+                "display_url": "youtube.com/user/theredpla…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/NBhZlBo4qb",
+                "expanded_url": "https://www.twitch.tv/hypershot_92",
+                "display_url": "twitch.tv/hypershot_92",
+                "indices": [
+                  111,
+                  134
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 457,
+        "friends_count": 700,
+        "listed_count": 30,
+        "created_at": "Wed Jan 26 19:27:28 +0000 2011",
+        "favourites_count": 512,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4964,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000305",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000033237221/11c1f8c6ce1abb3b059ae21f5b8da5ee.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000033237221/11c1f8c6ce1abb3b059ae21f5b8da5ee.jpeg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/813140698140528640/1jcwMAcZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/813140698140528640/1jcwMAcZ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/243308689/1482702815",
+        "profile_link_color": "FA0808",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Dec 28 14:09:53 +0000 2016",
+        "id": 814111128418709508,
+        "id_str": "814111128418709508",
+        "text": "How #RogueOne Resurrected Peter Cushing As Grand Moff #Tarkin https://t.co/UUA7tmyvRW #StarWars https://t.co/PzYPM2fsYw",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "RogueOne",
+              "indices": [
+                4,
+                13
+              ]
+            },
+            {
+              "text": "Tarkin",
+              "indices": [
+                54,
+                61
+              ]
+            },
+            {
+              "text": "StarWars",
+              "indices": [
+                86,
+                95
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/UUA7tmyvRW",
+              "expanded_url": "https://www.comicbookmovie.com/sci-fi/star_wars/how-rogue-one-a-star-wars-story-resurrected-peter-cushing-as-a147743",
+              "display_url": "comicbookmovie.com/sci-fi/star_wa…",
+              "indices": [
+                62,
+                85
+              ]
+            }
+          ],
+          "media": [
+            {
+              "id": 814111083896176640,
+              "id_str": "814111083896176640",
+              "indices": [
+                96,
+                119
+              ],
+              "media_url": "http://pbs.twimg.com/media/C0xNt6tXAAAIhK2.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/C0xNt6tXAAAIhK2.jpg",
+              "url": "https://t.co/PzYPM2fsYw",
+              "display_url": "pic.twitter.com/PzYPM2fsYw",
+              "expanded_url": "https://twitter.com/ComicBook_Movie/status/814111128418709508/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 915,
+                  "h": 507,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 377,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 915,
+                  "h": 507,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 814111083896176640,
+              "id_str": "814111083896176640",
+              "indices": [
+                96,
+                119
+              ],
+              "media_url": "http://pbs.twimg.com/media/C0xNt6tXAAAIhK2.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/C0xNt6tXAAAIhK2.jpg",
+              "url": "https://t.co/PzYPM2fsYw",
+              "display_url": "pic.twitter.com/PzYPM2fsYw",
+              "expanded_url": "https://twitter.com/ComicBook_Movie/status/814111128418709508/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 915,
+                  "h": 507,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 377,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 915,
+                  "h": 507,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 191561031,
+          "id_str": "191561031",
+          "name": "ComicBookMovie.com",
+          "screen_name": "ComicBook_Movie",
+          "location": "Lindon, UT",
+          "description": "Breaking news about comics being made into movies: Batman, Superman, The Avengers, Spider-Man, Iron Man, Thor, X-Men, Wolverine and more!",
+          "url": "http://t.co/nM2VLxQsTv",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/nM2VLxQsTv",
+                  "expanded_url": "http://www.comicbookmovie.com",
+                  "display_url": "comicbookmovie.com",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 69248,
+          "friends_count": 757,
+          "listed_count": 1237,
+          "created_at": "Thu Sep 16 19:17:57 +0000 2010",
+          "favourites_count": 42,
+          "utc_offset": -25200,
+          "time_zone": "Mountain Time (US & Canada)",
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 37396,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "FFFFFF",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/177858744/pageBg.gif",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/177858744/pageBg.gif",
+          "profile_background_tile": true,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/530788353268916224/Il_aNHTy_normal.png",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/530788353268916224/Il_aNHTy_normal.png",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/191561031/1418325080",
+          "profile_link_color": "10376B",
+          "profile_sidebar_border_color": "10376B",
+          "profile_sidebar_fill_color": "FFFCC2",
+          "profile_text_color": "10376B",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 14,
+        "favorite_count": 41,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 14,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Dec 28 16:00:05 +0000 2016",
+      "id": 814138861555171328,
+      "id_str": "814138861555171328",
+      "text": "RT @ComicBook_Movie: How #RogueOne Resurrected Peter Cushing As Grand Moff #Tarkin https://t.co/UUA7tmyvRW #StarWars https://t.co/PzYPM2fsYw",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "RogueOne",
+            "indices": [
+              25,
+              34
+            ]
+          },
+          {
+            "text": "Tarkin",
+            "indices": [
+              75,
+              82
+            ]
+          },
+          {
+            "text": "StarWars",
+            "indices": [
+              107,
+              116
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ComicBook_Movie",
+            "name": "ComicBookMovie.com",
+            "id": 191561031,
+            "id_str": "191561031",
+            "indices": [
+              3,
+              19
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/UUA7tmyvRW",
+            "expanded_url": "https://www.comicbookmovie.com/sci-fi/star_wars/how-rogue-one-a-star-wars-story-resurrected-peter-cushing-as-a147743",
+            "display_url": "comicbookmovie.com/sci-fi/star_wa…",
+            "indices": [
+              83,
+              106
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 814111083896176640,
+            "id_str": "814111083896176640",
+            "indices": [
+              117,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/C0xNt6tXAAAIhK2.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C0xNt6tXAAAIhK2.jpg",
+            "url": "https://t.co/PzYPM2fsYw",
+            "display_url": "pic.twitter.com/PzYPM2fsYw",
+            "expanded_url": "https://twitter.com/ComicBook_Movie/status/814111128418709508/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 915,
+                "h": 507,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 377,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 915,
+                "h": 507,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 814111128418709508,
+            "source_status_id_str": "814111128418709508",
+            "source_user_id": 191561031,
+            "source_user_id_str": "191561031"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 814111083896176640,
+            "id_str": "814111083896176640",
+            "indices": [
+              117,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/C0xNt6tXAAAIhK2.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C0xNt6tXAAAIhK2.jpg",
+            "url": "https://t.co/PzYPM2fsYw",
+            "display_url": "pic.twitter.com/PzYPM2fsYw",
+            "expanded_url": "https://twitter.com/ComicBook_Movie/status/814111128418709508/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 915,
+                "h": 507,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 377,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 915,
+                "h": 507,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 814111128418709508,
+            "source_status_id_str": "814111128418709508",
+            "source_user_id": 191561031,
+            "source_user_id_str": "191561031"
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 80310633,
+        "id_str": "80310633",
+        "name": "Patrick Fong",
+        "screen_name": "PatrickFong",
+        "location": "",
+        "description": "Alarmingly strong with the Force.",
+        "url": "https://t.co/DdBUa85wZc",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/DdBUa85wZc",
+                "expanded_url": "http://www.facebook.com/patfong",
+                "display_url": "facebook.com/patfong",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 794,
+        "friends_count": 1734,
+        "listed_count": 98,
+        "created_at": "Tue Oct 06 14:08:18 +0000 2009",
+        "favourites_count": 4447,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 77686,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/534069651433472001/P09hbXXQ.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/534069651433472001/P09hbXXQ.jpeg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000616317637/695cef803043a29aca35ba77940a1ea7_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000616317637/695cef803043a29aca35ba77940a1ea7_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/80310633/1398430612",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Dec 28 14:09:53 +0000 2016",
+        "id": 814111128418709508,
+        "id_str": "814111128418709508",
+        "text": "How #RogueOne Resurrected Peter Cushing As Grand Moff #Tarkin https://t.co/UUA7tmyvRW #StarWars https://t.co/PzYPM2fsYw",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "RogueOne",
+              "indices": [
+                4,
+                13
+              ]
+            },
+            {
+              "text": "Tarkin",
+              "indices": [
+                54,
+                61
+              ]
+            },
+            {
+              "text": "StarWars",
+              "indices": [
+                86,
+                95
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/UUA7tmyvRW",
+              "expanded_url": "https://www.comicbookmovie.com/sci-fi/star_wars/how-rogue-one-a-star-wars-story-resurrected-peter-cushing-as-a147743",
+              "display_url": "comicbookmovie.com/sci-fi/star_wa…",
+              "indices": [
+                62,
+                85
+              ]
+            }
+          ],
+          "media": [
+            {
+              "id": 814111083896176640,
+              "id_str": "814111083896176640",
+              "indices": [
+                96,
+                119
+              ],
+              "media_url": "http://pbs.twimg.com/media/C0xNt6tXAAAIhK2.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/C0xNt6tXAAAIhK2.jpg",
+              "url": "https://t.co/PzYPM2fsYw",
+              "display_url": "pic.twitter.com/PzYPM2fsYw",
+              "expanded_url": "https://twitter.com/ComicBook_Movie/status/814111128418709508/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 915,
+                  "h": 507,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 377,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 915,
+                  "h": 507,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 814111083896176640,
+              "id_str": "814111083896176640",
+              "indices": [
+                96,
+                119
+              ],
+              "media_url": "http://pbs.twimg.com/media/C0xNt6tXAAAIhK2.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/C0xNt6tXAAAIhK2.jpg",
+              "url": "https://t.co/PzYPM2fsYw",
+              "display_url": "pic.twitter.com/PzYPM2fsYw",
+              "expanded_url": "https://twitter.com/ComicBook_Movie/status/814111128418709508/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 915,
+                  "h": 507,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 377,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 915,
+                  "h": 507,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 191561031,
+          "id_str": "191561031",
+          "name": "ComicBookMovie.com",
+          "screen_name": "ComicBook_Movie",
+          "location": "Lindon, UT",
+          "description": "Breaking news about comics being made into movies: Batman, Superman, The Avengers, Spider-Man, Iron Man, Thor, X-Men, Wolverine and more!",
+          "url": "http://t.co/nM2VLxQsTv",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/nM2VLxQsTv",
+                  "expanded_url": "http://www.comicbookmovie.com",
+                  "display_url": "comicbookmovie.com",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 69248,
+          "friends_count": 757,
+          "listed_count": 1237,
+          "created_at": "Thu Sep 16 19:17:57 +0000 2010",
+          "favourites_count": 42,
+          "utc_offset": -25200,
+          "time_zone": "Mountain Time (US & Canada)",
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 37396,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "FFFFFF",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/177858744/pageBg.gif",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/177858744/pageBg.gif",
+          "profile_background_tile": true,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/530788353268916224/Il_aNHTy_normal.png",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/530788353268916224/Il_aNHTy_normal.png",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/191561031/1418325080",
+          "profile_link_color": "10376B",
+          "profile_sidebar_border_color": "10376B",
+          "profile_sidebar_fill_color": "FFFCC2",
+          "profile_text_color": "10376B",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 14,
+        "favorite_count": 41,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 14,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Dec 28 15:57:06 +0000 2016",
+      "id": 814138110162378756,
+      "id_str": "814138110162378756",
+      "text": "I thought it was awesome! And yes they will use it again. #RogueOne #StarWars #Tarkin https://t.co/QPkfZtACTX",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "RogueOne",
+            "indices": [
+              58,
+              67
+            ]
+          },
+          {
+            "text": "StarWars",
+            "indices": [
+              68,
+              77
+            ]
+          },
+          {
+            "text": "Tarkin",
+            "indices": [
+              78,
+              85
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/QPkfZtACTX",
+            "expanded_url": "http://fb.me/1NdQUHLCx",
+            "display_url": "fb.me/1NdQUHLCx",
+            "indices": [
+              86,
+              109
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2826538778,
+        "id_str": "2826538778",
+        "name": "BennettBrothers",
+        "screen_name": "BennettBrosPod",
+        "location": "",
+        "description": "Welcome to The Bennett Brothers’s Podcast! We are currently doing a weekly podcast on the Marvel Cinematic Universe and its media off shoots.",
+        "url": "https://t.co/mbx0okrcvg",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/mbx0okrcvg",
+                "expanded_url": "http://bennettbrotherspodcast.wordpress.com",
+                "display_url": "bennettbrotherspodcast.wordpress.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 33,
+        "friends_count": 42,
+        "listed_count": 3,
+        "created_at": "Mon Sep 22 15:19:17 +0000 2014",
+        "favourites_count": 630,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1075,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/778283918583795712/Rkf0MdfG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/778283918583795712/Rkf0MdfG_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2826538778/1481041851",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    }
+  ],
+  "search_metadata": {
+    "completed_in": 0.053,
+    "max_id": 815009430668447744,
+    "max_id_str": "815009430668447744",
+    "next_results": "?max_id=814138110162378755&q=%23RogueOne%23Tarkin&include_entities=1",
+    "query": "%23RogueOne%23Tarkin",
+    "refresh_url": "?since_id=815009430668447744&q=%23RogueOne%23Tarkin&include_entities=1",
+    "count": 15,
+    "since_id": 0,
+    "since_id_str": "0"
+  }
+}

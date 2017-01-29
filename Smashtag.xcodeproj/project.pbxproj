@@ -19,13 +19,21 @@
 		D40DFFC51DA2F1D500E77967 /* SmashtagTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D40DFFC41DA2F1D500E77967 /* SmashtagTests.swift */; };
 		D40DFFD01DA2F1D500E77967 /* SmashtagUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D40DFFCF1DA2F1D500E77967 /* SmashtagUITests.swift */; };
 		D435F2D01E04373200237133 /* Pods_SmashtagTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D435F2CF1E04373200237133 /* Pods_SmashtagTests.framework */; };
-		D435F2D41E0451D800237133 /* TwitterClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = D435F2D31E0451D800237133 /* TwitterClient.swift */; };
-		D435F3001E058F0900237133 /* ModulesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D435F2FF1E058F0900237133 /* ModulesTests.swift */; };
+		D435F2D41E0451D800237133 /* Client.swift in Sources */ = {isa = PBXBuildFile; fileRef = D435F2D31E0451D800237133 /* Client.swift */; };
+		D435F3001E058F0900237133 /* TweetTransformerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D435F2FF1E058F0900237133 /* TweetTransformerTests.swift */; };
 		D435F30E1E05FB6F00237133 /* trinity_college_dublin_tweets.json in Resources */ = {isa = PBXBuildFile; fileRef = D435F30D1E05FB6F00237133 /* trinity_college_dublin_tweets.json */; };
 		D435F3131E06A93B00237133 /* Tweet.swift in Sources */ = {isa = PBXBuildFile; fileRef = D435F3121E06A93B00237133 /* Tweet.swift */; };
 		D435F3141E06A93B00237133 /* Tweet.swift in Sources */ = {isa = PBXBuildFile; fileRef = D435F3121E06A93B00237133 /* Tweet.swift */; };
 		D456A8CB1E130076002B4938 /* trinity_college_dublin_tweets.json in Resources */ = {isa = PBXBuildFile; fileRef = D435F30D1E05FB6F00237133 /* trinity_college_dublin_tweets.json */; };
-		D456A8D41E132EE2002B4938 /* twitter_credentials.do_not_commit in Resources */ = {isa = PBXBuildFile; fileRef = D456A8D31E132EE2002B4938 /* twitter_credentials.do_not_commit */; };
+		D456A8D91E1337B1002B4938 /* TwitterClientTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D456A8D81E1337B1002B4938 /* TwitterClientTests.swift */; };
+		D456A8DB1E13D34C002B4938 /* ApiPathBulder.swift in Sources */ = {isa = PBXBuildFile; fileRef = D456A8DA1E13D34C002B4938 /* ApiPathBulder.swift */; };
+		D456A8DC1E13D34C002B4938 /* ApiPathBulder.swift in Sources */ = {isa = PBXBuildFile; fileRef = D456A8DA1E13D34C002B4938 /* ApiPathBulder.swift */; };
+		D47FD2051E1ADB0E0036FB6C /* ApiConnecter.swift in Sources */ = {isa = PBXBuildFile; fileRef = D47FD2041E1ADB0E0036FB6C /* ApiConnecter.swift */; };
+		D47FD2061E1ADB0E0036FB6C /* ApiConnecter.swift in Sources */ = {isa = PBXBuildFile; fileRef = D47FD2041E1ADB0E0036FB6C /* ApiConnecter.swift */; };
+		D4B81B7D1E17E46E000249A9 /* Client.swift in Sources */ = {isa = PBXBuildFile; fileRef = D435F2D31E0451D800237133 /* Client.swift */; };
+		D4D393541E17DA060041CE16 /* MockClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4D393531E17DA060041CE16 /* MockClient.swift */; };
+		D4EA49F61E22E92300B462BB /* Mock_Responses in Resources */ = {isa = PBXBuildFile; fileRef = D4EA49F51E22E92300B462BB /* Mock_Responses */; };
+		D4EA49F71E22EAF000B462BB /* Mock_Responses in Resources */ = {isa = PBXBuildFile; fileRef = D4EA49F51E22E92300B462BB /* Mock_Responses */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -88,15 +96,19 @@
 		D435F2CA1E0436B500237133 /* Nimble.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Nimble.framework; path = "Pods/../build/Debug-iphoneos/Nimble/Nimble.framework"; sourceTree = "<group>"; };
 		D435F2CB1E0436B500237133 /* Quick.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Quick.framework; path = "Pods/../build/Debug-iphoneos/Quick/Quick.framework"; sourceTree = "<group>"; };
 		D435F2CF1E04373200237133 /* Pods_SmashtagTests.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Pods_SmashtagTests.framework; path = "Pods/../build/Debug-iphoneos/Pods_SmashtagTests.framework"; sourceTree = "<group>"; };
-		D435F2D31E0451D800237133 /* TwitterClient.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TwitterClient.swift; sourceTree = "<group>"; };
+		D435F2D31E0451D800237133 /* Client.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Client.swift; sourceTree = "<group>"; };
 		D435F2E41E04620600237133 /* SmashtagTests2.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SmashtagTests2.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D435F2F21E04623800237133 /* ModulesTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ModulesTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D435F2F61E04623800237133 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D435F2FE1E058F0800237133 /* ModulesTests-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "ModulesTests-Bridging-Header.h"; sourceTree = "<group>"; };
-		D435F2FF1E058F0900237133 /* ModulesTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ModulesTests.swift; sourceTree = "<group>"; };
+		D435F2FF1E058F0900237133 /* TweetTransformerTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TweetTransformerTests.swift; sourceTree = "<group>"; };
 		D435F30D1E05FB6F00237133 /* trinity_college_dublin_tweets.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = trinity_college_dublin_tweets.json; sourceTree = "<group>"; };
 		D435F3121E06A93B00237133 /* Tweet.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Tweet.swift; sourceTree = "<group>"; };
-		D456A8D31E132EE2002B4938 /* twitter_credentials.do_not_commit */ = {isa = PBXFileReference; lastKnownFileType = text; name = twitter_credentials.do_not_commit; path = ../api_creds/twitter_credentials.do_not_commit; sourceTree = "<group>"; };
+		D456A8D81E1337B1002B4938 /* TwitterClientTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = TwitterClientTests.swift; path = ClientTests/TwitterClientTests.swift; sourceTree = "<group>"; };
+		D456A8DA1E13D34C002B4938 /* ApiPathBulder.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ApiPathBulder.swift; sourceTree = "<group>"; };
+		D47FD2041E1ADB0E0036FB6C /* ApiConnecter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ApiConnecter.swift; sourceTree = "<group>"; };
+		D4D393531E17DA060041CE16 /* MockClient.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MockClient.swift; sourceTree = "<group>"; };
+		D4EA49F51E22E92300B462BB /* Mock_Responses */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Mock_Responses; path = Modules/Client/Mock_Responses; sourceTree = "<group>"; };
 		E4E956D91C8559AE333BA7A5 /* Pods-Smashtag.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Smashtag.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Smashtag/Pods-Smashtag.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -162,12 +174,12 @@
 		D40DFFA31DA2F1D400E77967 = {
 			isa = PBXGroup;
 			children = (
-				D456A8D31E132EE2002B4938 /* twitter_credentials.do_not_commit */,
+				D4EA49F51E22E92300B462BB /* Mock_Responses */,
 				D435F2D11E044CBA00237133 /* Modules */,
+				D435F2F31E04623800237133 /* ModulesTests */,
 				D40DFFAE1DA2F1D400E77967 /* Smashtag */,
 				D40DFFC31DA2F1D500E77967 /* SmashtagTests */,
 				D40DFFCE1DA2F1D500E77967 /* SmashtagUITests */,
-				D435F2F31E04623800237133 /* ModulesTests */,
 				D40DFFAD1DA2F1D400E77967 /* Products */,
 				9D5E89CFB33CFA4D52A53F27 /* Pods */,
 				E03BA8EADDA086CA75E9DAA9 /* Frameworks */,
@@ -229,7 +241,10 @@
 		D435F2D21E0451A800237133 /* Client */ = {
 			isa = PBXGroup;
 			children = (
-				D435F2D31E0451D800237133 /* TwitterClient.swift */,
+				D435F2D31E0451D800237133 /* Client.swift */,
+				D456A8DA1E13D34C002B4938 /* ApiPathBulder.swift */,
+				D4D393531E17DA060041CE16 /* MockClient.swift */,
+				D47FD2041E1ADB0E0036FB6C /* ApiConnecter.swift */,
 			);
 			path = Client;
 			sourceTree = "<group>";
@@ -245,6 +260,7 @@
 		D435F2F31E04623800237133 /* ModulesTests */ = {
 			isa = PBXGroup;
 			children = (
+				D456A8D51E133702002B4938 /* ClientTests */,
 				D435F30C1E05FB5B00237133 /* Resources */,
 				D435F2FD1E058EA500237133 /* TweetTests */,
 				D435F2F61E04623800237133 /* Info.plist */,
@@ -255,7 +271,7 @@
 		D435F2FD1E058EA500237133 /* TweetTests */ = {
 			isa = PBXGroup;
 			children = (
-				D435F2FF1E058F0900237133 /* ModulesTests.swift */,
+				D435F2FF1E058F0900237133 /* TweetTransformerTests.swift */,
 				D435F2FE1E058F0800237133 /* ModulesTests-Bridging-Header.h */,
 			);
 			path = TweetTests;
@@ -275,6 +291,14 @@
 				D435F3121E06A93B00237133 /* Tweet.swift */,
 			);
 			path = Models;
+			sourceTree = "<group>";
+		};
+		D456A8D51E133702002B4938 /* ClientTests */ = {
+			isa = PBXGroup;
+			children = (
+				D456A8D81E1337B1002B4938 /* TwitterClientTests.swift */,
+			);
+			name = ClientTests;
 			sourceTree = "<group>";
 		};
 		E03BA8EADDA086CA75E9DAA9 /* Frameworks */ = {
@@ -465,7 +489,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D456A8D41E132EE2002B4938 /* twitter_credentials.do_not_commit in Resources */,
+				D4EA49F61E22E92300B462BB /* Mock_Responses in Resources */,
 				D456A8CB1E130076002B4938 /* trinity_college_dublin_tweets.json in Resources */,
 				D40DFFBA1DA2F1D500E77967 /* LaunchScreen.storyboard in Resources */,
 				D40DFFB71DA2F1D500E77967 /* Assets.xcassets in Resources */,
@@ -499,6 +523,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D435F30E1E05FB6F00237133 /* trinity_college_dublin_tweets.json in Resources */,
+				D4EA49F71E22EAF000B462BB /* Mock_Responses in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -693,9 +718,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				D40DFFB21DA2F1D400E77967 /* ViewController.swift in Sources */,
-				D435F2D41E0451D800237133 /* TwitterClient.swift in Sources */,
+				D435F2D41E0451D800237133 /* Client.swift in Sources */,
+				D47FD2051E1ADB0E0036FB6C /* ApiConnecter.swift in Sources */,
 				D40DFFB01DA2F1D400E77967 /* AppDelegate.swift in Sources */,
 				D435F3131E06A93B00237133 /* Tweet.swift in Sources */,
+				D456A8DB1E13D34C002B4938 /* ApiPathBulder.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -726,7 +753,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D435F3001E058F0900237133 /* ModulesTests.swift in Sources */,
+				D456A8DC1E13D34C002B4938 /* ApiPathBulder.swift in Sources */,
+				D4D393541E17DA060041CE16 /* MockClient.swift in Sources */,
+				D47FD2061E1ADB0E0036FB6C /* ApiConnecter.swift in Sources */,
+				D456A8D91E1337B1002B4938 /* TwitterClientTests.swift in Sources */,
+				D435F3001E058F0900237133 /* TweetTransformerTests.swift in Sources */,
+				D4B81B7D1E17E46E000249A9 /* Client.swift in Sources */,
 				D435F3141E06A93B00237133 /* Tweet.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -874,6 +906,7 @@
 			baseConfigurationReference = E4E956D91C8559AE333BA7A5 /* Pods-Smashtag.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				DEVELOPMENT_TEAM = S2C6323M4A;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -894,6 +927,7 @@
 			baseConfigurationReference = C41B95D520ADFC10256D5EE1 /* Pods-Smashtag.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				DEVELOPMENT_TEAM = S2C6323M4A;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
