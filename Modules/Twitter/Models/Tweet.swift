@@ -8,7 +8,6 @@
 
 import Foundation
 import SwiftyJSON
-import ObjectMapper
 
 struct Tweet {
     let message : String
